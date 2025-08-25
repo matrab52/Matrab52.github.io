@@ -252,3 +252,11 @@ neuropsychiatry, excessively simplifying depressive disorder complexity."
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📧 Contact
+
+I appreciate interest in ResearchSync! However:
+- 🐛 For bugs/features → Open an GitHub issue
+- 🤝 For collaborations → Submit a PR first
+- 💼 For professional inquiries → [Matrab52@gmail.com] (expect slow response)
+- ⏰ This is a side project, responses may be delayed
