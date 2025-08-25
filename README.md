@@ -248,3 +248,7 @@ neuropsychiatry, excessively simplifying depressive disorder complexity."
 ---
 
 **Ready to challenge your assumptions? Clone it. Run it. Break things. Make science better.**
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
